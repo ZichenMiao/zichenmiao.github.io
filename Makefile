@@ -1,3 +1,4 @@
+#!/bin/bash
 build=$(basename $(notdir $(wildcard templates/*.jemdoc)))
 
 Hbuild=$(addsuffix .html, $(build))
