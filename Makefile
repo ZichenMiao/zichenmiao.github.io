@@ -1,4 +1,3 @@
-#!/bin/bash
 build=$(basename $(notdir $(wildcard templates/*.jemdoc)))
 
 Hbuild=$(addsuffix .html, $(build))
@@ -9,11 +8,8 @@ PHbuild=$(addprefix build/, $(Hbuild))
 build : $(PHbuild)
 	cp static/* build/
 	cp css/* build/
-	if [[ "$(shell uname -s)" == "Darwin" ]]; then \
-		sed -i '' 's/ class="current"//g' build/index.html;\
-	else \
-		sed -i 's/ class="current"//g' build/index.html;\
-	fi
+	sed -i 's/ class="current"//g' build/index.html;\
+
 
 build/%.html : templates/%.jemdoc MENU config.conf
 	@mkdir -p build
