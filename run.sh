@@ -1,3 +1,4 @@
+#!/bin/bash
 make clean && make
 rm -r docs
 mv build docs
