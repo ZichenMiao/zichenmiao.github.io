@@ -19,16 +19,21 @@ Previously, I got my B.S. from [http://asee.buaa.edu.cn School of Automation and
 
 # Please feel free to download my [cv.pdf CV].
 
-== Recent Publications
+== Selected Publications
 
 - *Spatiotemporal Joint Filter Decomposition in 3D Convolutional Neural Networks* \n
-Zichen Miao, Ze Wang, Xiuyuan Cheng, Qiang Qiu\n
+*Zichen Miao*, Ze Wang, Xiuyuan Cheng, Qiang Qiu\n
 NeurIPS 2021\n
 
 - *Learning to Learn Dense Gaussian Processes for Few-Shot Learning* \n
-Ze Wang\*, Zichen Miao\*, Xiantong Zhen, Qiang Qiu\n
+Ze Wang\*, *Zichen Miao*\*, Xiantong Zhen, Qiang Qiu\n
 NeurIPS 2021\n
 
 - *Image Generation using Continuous Filter Atoms* \n
-Ze Wang, Seunghyun Hwang, Zichen Miao, Qiang Qiu\n
+Ze Wang, Seunghyun Hwang, *Zichen Miao*, Qiang Qiu\n
 NeurIPS 2021 (spotlight)\n
+
+- *Graph Neural Networks with Low-rank Learnable Local Filters*\n
+Xiuyuan Cheng, *Zichen Miao*, Qiang Qiu\n
+ICLR 2021 (spotlight)\n
+\[[https://openreview.net/pdf?id=9OHFhefeB86 pdf]\]

@@ -1,23 +1,23 @@
 # jemdoc: menu{MENU}{research.html}
 
 - *Spatiotemporal Joint Filter Decomposition in 3D Convolutional Neural Networks* \n
-Zichen Miao, Ze Wang, Xiuyuan Cheng, Qiang Qiu\n
+*Zichen Miao*, Ze Wang, Xiuyuan Cheng, Qiang Qiu\n
 NeurIPS 2021\n
 
 - *Learning to Learn Dense Gaussian Processes for Few-Shot Learning* \n
-Ze Wang\*, Zichen Miao\*, Xiantong Zhen, Qiang Qiu\n
+Ze Wang\*, *Zichen Miao*\*, Xiantong Zhen, Qiang Qiu\n
 NeurIPS 2021\n
 
 - *Image Generation using Continuous Filter Atoms* \n
-Ze Wang, Seunghyun Hwang, Zichen Miao, Qiang Qiu\n
+Ze Wang, Seunghyun Hwang, *Zichen Miao*, Qiang Qiu\n
 NeurIPS 2021 (spotlight)\n
 
 - *Adaptive Convolutions with Per-pixel Dynamic Filter Atom*\n
-Ze Wang, Zichen Miao, Jun Hu, Qiang Qiu\n
+Ze Wang, *Zichen Miao*, Jun Hu, Qiang Qiu\n
 ICCV 2021\n
 \[[https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Adaptive_Convolutions_With_Per-Pixel_Dynamic_Filter_Atom_ICCV_2021_paper.pdf pdf]\]
 
 - *Graph Neural Networks with Low-rank Learnable Local Filters*\n
-Xiuyuan Cheng, Zichen Miao, Qiang Qiu\n
+Xiuyuan Cheng, *Zichen Miao*, Qiang Qiu\n
 ICLR 2021 (spotlight)\n
 \[[https://openreview.net/pdf?id=9OHFhefeB86 pdf]\]
