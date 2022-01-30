@@ -1,5 +1,10 @@
 # jemdoc: menu{MENU}{research.html}
 
+- *Continual Learning With Filter Atom Swapping* \n
+*Zichen Miao*, Ze Wang, Wei Chen, Qiang Qiu\n
+ICLR 2022 (*Spolight*)\n
+\[[https://openreview.net/pdf?id=metRpM4Zrcb pdf]\] \[[https://github.com/ZichenMiao/Continual_Learning_Filter_Atom_Swapping code]\]
+
 - *Spatiotemporal Joint Filter Decomposition in 3D Convolutional Neural Networks* \n
 *Zichen Miao*, Ze Wang, Xiuyuan Cheng, Qiang Qiu\n
 NeurIPS 2021\n

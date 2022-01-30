@@ -24,6 +24,11 @@ Previously, I got my B.S. from [http://asee.buaa.edu.cn School of Automation and
 
 == Publications
 
+- *Continual Learning With Filter Atom Swapping* \n
+*Zichen Miao*, Ze Wang, Wei Chen, Qiang Qiu\n
+ICLR 2022 (*Spolight*)\n
+\[[https://openreview.net/pdf?id=metRpM4Zrcb pdf]\] \[[https://github.com/ZichenMiao/Continual_Learning_Filter_Atom_Swapping code]\]
+
 - *Spatiotemporal Joint Filter Decomposition in 3D Convolutional Neural Networks* \n
 *Zichen Miao*, Ze Wang, Xiuyuan Cheng, Qiang Qiu\n
 NeurIPS 2021\n
@@ -36,7 +41,7 @@ NeurIPS 2021\n
 
 - *Image Generation using Continuous Filter Atoms* \n
 Ze Wang, Seunghyun Hwang, *Zichen Miao*, Qiang Qiu\n
-NeurIPS 2021 (spotlight)\n
+NeurIPS 2021 (*Spotlight*)\n
 \[[https://papers.nips.cc/paper/2021/file/94c7bb58efc3b337800875b5d382a072-Paper.pdf pdf]\]
 
 - *Adaptive Convolutions with Per-pixel Dynamic Filter Atom*\n
@@ -46,5 +51,5 @@ ICCV 2021\n
 
 - *Graph Neural Networks with Low-rank Learnable Local Filters*\n
 Xiuyuan Cheng, *Zichen Miao*, Qiang Qiu\n
-ICLR 2021 (spotlight)\n
+ICLR 2021 (*Spotlight*)\n
 \[[https://openreview.net/pdf?id=9OHFhefeB86 pdf]\] \[[https://github.com/ZichenMiao/L3Net code]\]
