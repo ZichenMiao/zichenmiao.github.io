@@ -1,0 +1,55 @@
+# jemdoc: menu{MENU}{index.html}
+
+~~~
+{}{img_left}{ZichenMiao_linkedin.jpg}{Zichen Miao}{250px}
+
+*Zichen Miao*
+
+*Contact*: 
+
+EE 122D, Purdue University
+
+West Lafayette, IN 47907
+
+miaoz \[at\] purdue.edu
+~~~
+\n
+\n
+
+I am a second-year PhD student in [https://engineering.purdue.edu/ECE Elmore Family School of Electrical and Computer Engineering] at [https://purdue.edu/ Purdue University], advised by [https://web.ics.purdue.edu/~qqiu/ Prof. Qiang Qiu]. My current research interest is in Machine Learning and Computer Vision.
+
+Previously, I got my B.S. from [http://asee.buaa.edu.cn School of Automation and Electrical Engineering], [https://www.buaa.edu.cn Beihang University] in 2019.
+
+# Please feel free to download my [cv.pdf CV].
+
+== Publications
+
+- *Continual Learning With Filter Atom Swapping* \n
+*Zichen Miao*, Ze Wang, Wei Chen, Qiang Qiu\n
+ICLR 2022 (*Spotlight*)\n
+\[[https://openreview.net/pdf?id=metRpM4Zrcb pdf]\] \[[https://github.com/ZichenMiao/Continual_Learning_Filter_Atom_Swapping code]\]
+
+- *Spatiotemporal Joint Filter Decomposition in 3D Convolutional Neural Networks* \n
+*Zichen Miao*, Ze Wang, Xiuyuan Cheng, Qiang Qiu\n
+NeurIPS 2021\n
+\[[https://papers.nips.cc/paper/2021/file/1bb91f73e9d31ea2830a5e73ce3ed328-Paper.pdf pdf]\]
+
+- *Learning to Learn Dense Gaussian Processes for Few-Shot Learning* \n
+Ze Wang\*, *Zichen Miao*\*, Xiantong Zhen, Qiang Qiu\n
+NeurIPS 2021\n
+\[[https://papers.nips.cc/paper/2021/file/6e2713a6efee97bacb63e52c54f0ada0-Paper.pdf pdf]\]
+
+- *Image Generation using Continuous Filter Atoms* \n
+Ze Wang, Seunghyun Hwang, *Zichen Miao*, Qiang Qiu\n
+NeurIPS 2021 (*Spotlight*)\n
+\[[https://papers.nips.cc/paper/2021/file/94c7bb58efc3b337800875b5d382a072-Paper.pdf pdf]\]
+
+- *Adaptive Convolutions with Per-pixel Dynamic Filter Atom*\n
+Ze Wang, *Zichen Miao*, Jun Hu, Qiang Qiu\n
+ICCV 2021\n
+\[[https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Adaptive_Convolutions_With_Per-Pixel_Dynamic_Filter_Atom_ICCV_2021_paper.pdf pdf]\] \[[https://github.com/ZeWang95/ACDA code]\]
+
+- *Graph Neural Networks with Low-rank Learnable Local Filters*\n
+Xiuyuan Cheng, *Zichen Miao*, Qiang Qiu\n
+ICLR 2021 (*Spotlight*)\n
+\[[https://openreview.net/pdf?id=9OHFhefeB86 pdf]\] \[[https://github.com/ZichenMiao/L3Net code]\]

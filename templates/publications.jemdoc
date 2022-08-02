@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{research.html}
+
+- *Continual Learning With Filter Atom Swapping* \n
+*Zichen Miao*, Ze Wang, Wei Chen, Qiang Qiu\n
+ICLR 2022 (*Spolight*)\n
+\[[https://openreview.net/pdf?id=metRpM4Zrcb pdf]\] \[[https://github.com/ZichenMiao/Continual_Learning_Filter_Atom_Swapping code]\]
+
+- *Spatiotemporal Joint Filter Decomposition in 3D Convolutional Neural Networks* \n
+*Zichen Miao*, Ze Wang, Xiuyuan Cheng, Qiang Qiu\n
+NeurIPS 2021\n
+\[[https://papers.nips.cc/paper/2021/file/1bb91f73e9d31ea2830a5e73ce3ed328-Paper.pdf pdf]\]
+
+- *Learning to Learn Dense Gaussian Processes for Few-Shot Learning* \n
+Ze Wang\*, *Zichen Miao*\*, Xiantong Zhen, Qiang Qiu\n
+NeurIPS 2021\n
+\[[https://papers.nips.cc/paper/2021/file/6e2713a6efee97bacb63e52c54f0ada0-Paper.pdf pdf]\]
+
+- *Image Generation using Continuous Filter Atoms* \n
+Ze Wang, Seunghyun Hwang, *Zichen Miao*, Qiang Qiu\n
+NeurIPS 2021 (spotlight)\n
+\[[https://papers.nips.cc/paper/2021/file/94c7bb58efc3b337800875b5d382a072-Paper.pdf pdf]\]
+
+- *Adaptive Convolutions with Per-pixel Dynamic Filter Atom*\n
+Ze Wang, *Zichen Miao*, Jun Hu, Qiang Qiu\n
+ICCV 2021\n
+\[[https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Adaptive_Convolutions_With_Per-Pixel_Dynamic_Filter_Atom_ICCV_2021_paper.pdf pdf]\] \[[https://github.com/ZeWang95/ACDA code]\]
+
+- *Graph Neural Networks with Low-rank Learnable Local Filters*\n
+Xiuyuan Cheng, *Zichen Miao*, Qiang Qiu\n
+ICLR 2021 (spotlight)\n
+\[[https://openreview.net/pdf?id=9OHFhefeB86 pdf]\] \[[https://github.com/ZichenMiao/L3Net code]\]
