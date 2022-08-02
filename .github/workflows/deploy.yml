@@ -10,11 +10,10 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
-          python-version: '2.7.0'
+          python-version: '3.7.0'
 
       - name: Install and Build 🔧
         run: |
-          pip install jemdoc
           make
 
       - name: Deploy 🚀
