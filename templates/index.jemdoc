@@ -16,13 +16,22 @@ miaoz \[at\] purdue.edu
 \n
 \n
 
-I am a 3rd year PhD student in [https://engineering.purdue.edu/ECE Elmore Family School of Electrical and Computer Engineering] at [https://purdue.edu/ Purdue University], advised by [https://web.ics.purdue.edu/~qqiu/ Prof. Qiang Qiu]. My current research interests are machine learning and computer vision.
+I am a 4th year PhD student in [https://engineering.purdue.edu/ECE Elmore Family School of Electrical and Computer Engineering] at [https://purdue.edu/ Purdue University], advised by [https://web.ics.purdue.edu/~qqiu/ Prof. Qiang Qiu]. My current research interests are machine learning and computer vision.
 
 Previously, I got my B.S. from [http://asee.buaa.edu.cn School of Automation and Electrical Engineering], [https://www.buaa.edu.cn Beihang University] in 2019.
 
 # Please feel free to download my [cv.pdf CV].
 
+== Experiences
+Resaerch Intern\n
+
+*Microsoft Resaerch & Azure AI (2023.05-2023.08)*\n
+Mentors: Jiang Wang, Zicheng Liu
+
 == Publications
+- *Inner Product-based Neural Network Similarity* \n
+Wei Chen\*, *Zichen Miao*\*, Qiang Qiu\n
+NeurIPS 2023 \n
 
 - *Continual Learning With Filter Atom Swapping* \n
 *Zichen Miao*, Ze Wang, Wei Chen, Qiang Qiu\n
