@@ -1,8 +1,18 @@
 # jemdoc: menu{MENU}{research.html}
 
+- *Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning* \n
+*Zichen Miao*, Jiang Wang, Ze Wang, Zhengyuan Yang, Lijuan Wang, Qiang Qiu, Zicheng Liu\n
+CVPR 2024\n
+
+- *Training Bayesian Neural Networks with Sparse Subspace Variational Inference* \n
+Junbo Li, *Zichen Miao*, Qiang Qiu, Ruqi Zhang\n
+ICLR 2024\n
+\[[https://openreview.net/pdf?id=4XtUj6Uzt3 pdf]\]
+
 - *Inner Product-based Neural Network Similarity* \n
 Wei Chen\*, *Zichen Miao*\*, Qiang Qiu\n
 NeurIPS 2023\n
+\[[https://openreview.net/pdf?id=9eneYFIGKq pdf]\]
 
 - *Continual Learning With Filter Atom Swapping* \n
 *Zichen Miao*, Ze Wang, Wei Chen, Qiang Qiu\n
