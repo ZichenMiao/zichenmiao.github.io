@@ -31,11 +31,12 @@ Mentors: Jiang Wang, Zicheng Liu
 - *Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning* \n
 *Zichen Miao*, Jiang Wang, Ze Wang, Zhengyuan Yang, Lijuan Wang, Qiang Qiu, Zicheng Liu\n
 *CVPR 2024*\n
+\[[https://openaccess.thecvf.com/content/CVPR2024/papers/Miao_Training_Diffusion_Models_Towards_Diverse_Image_Generation_with_Reinforcement_Learning_CVPR_2024_paper.pdf pdf]\]
 
 - *Training Bayesian Neural Networks with Sparse Subspace Variational Inference* \n
 Junbo Li, *Zichen Miao*, Qiang Qiu, Ruqi Zhang\n
 *ICLR 2024*\n
-\[[https://openreview.net/pdf?id=4XtUj6Uzt3 pdf]\]
+\[[https://openreview.net/pdf?id=4XtUj6Uzt3 pdf]\] \[[https://github.com/ljb121002/SSVI code]\]
 
 - *Inner Product-based Neural Network Similarity* \n
 Wei Chen\*, *Zichen Miao*\*, Qiang Qiu\n
