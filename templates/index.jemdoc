@@ -28,6 +28,20 @@ Previously, I got my B.S. from [http://asee.buaa.edu.cn School of Automation and
 Mentors: Jiang Wang, Zicheng Liu
 
 == Publications \n(\* means equal contribution.)
+- *Coeff-Tuning: A Graph Filter Subspace View for Tuning Attention-Based Large Models*
+*Zichen Miao*\*, Wei Chen\*, Qiang Qiu\n
+*CVPR 2025*\n
+
+- *Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization*
+*Zichen Miao*, Zhengyuan Yang, Kevin Lin, Ze Wang, Zicheng Liu, Lijuan Wang, Qiang Qiu\n
+*ICLR 2025*\n
+\[[https://openreview.net/pdf?id=fXnE4gB64o pdf]\] \[[https://github.com/ZichenMiao/Pairwise_Sample_Optimization code]\]
+
+- *Large Convolutional Model Tuning via Filter Subspace*
+Wei Chen, *Zichen Miao*, Qiang Qiu\n
+*ICLR 2025*\n
+\[[https://openreview.net/pdf?id=E5YmIBvOqV pdf]\] \[[https://github.com/weichennone/convnet_finetune code]\]
+
 - *Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning* \n
 *Zichen Miao*, Jiang Wang, Ze Wang, Zhengyuan Yang, Lijuan Wang, Qiang Qiu, Zicheng Liu\n
 *CVPR 2024*\n
